@@ -1,0 +1,18 @@
+- name: Qualitative and Quantitative Analysis of Callgraph Algorithms for PYTHON
+  i18n: sritejakv
+  authors: Sriteja Kummita, Goran Piskachev, Johannes Spaeth, and Eric Bodden
+  conference: The First International Conference on Code Quality, Moscow Russia, March 2021 [To appear].
+  desc: Python is one of the most popular programming languages. An so is also a relevant target for static analysis tools. The primary data structure for performing an inter-procedural analysis is callgraph. There exists multiple algorithms for constructing callgraphs, tailored to specific languages. However, comparatively few implementations target Python. This paper thus presents eval_CG, an extensible framework for comparative analysis of Python callgraphs.
+
+- name: Integration of the Static Analysis Results Interchange Format in CogniCrypt
+  i18n: sritejakv
+  authors: Sriteja Kummita, and Goran Piskachev
+  url: https://arxiv.org/abs/1907.02558
+  desc: This paper explains the SARIF format through examples and presents a proof of concept of the connector that allows the static analysis tool CogniCrypt to generate and export its results in SARIF format.
+
+- name: Efficient quality analysis of underwater acoustic images
+  i18n: sritejakv
+  authors: Sriteja Kummita, Sree Sharmila T., and Vineetha M.
+  conference: International Journal of Applied Engineering Research, January 2015.
+  url: https://www.researchgate.net/publication/283229521_Efficient_quality_analysis_of_underwater_acoustic_images
+  desc: Acoustic is the study of sound. Underwater acoustic images are constructed using sonar systems that give near-photographic images of underwater areas, even in zero visibility water. While capturing images underwater, lot of noise occurs for many reasons, which degrades the quality of the image. This paper concentrates on the median, averaging and wiener filtering for image de-noising and discrete wavelet transform (DWT) along with bi-cubic interpolation for resolution enhancement. The efficiency of these techniques is evaluated using Peak Signal to Noise Ratio (PSNR). The results depicts that efficient de-noising and resolution enhancement techniques are needed for image pre-processing.
