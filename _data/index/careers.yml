@@ -8,7 +8,7 @@
     detail: Currently working as Research Associate and also in the early stages of my Ph.D career.
     i18n: company_a_desc
   date:
-    detail: Nov. 2020
+    detail: Nov 2020 - Today
     i18n: company_a_date
   job:
     detail: Research Associate & Ph.D Candidate
@@ -24,7 +24,7 @@
     detail: Contributed to CrySL (Domain Specific Language to specify Cryptographic misuses), CogniCrypt (is an Eclipse plugin that supports Java developers in using cryptographic APIs efficiently).
     i18n: company_b_desc
   date:
-    detail: Jul. 2018
+    detail: Jul 2018 - Sep 2020
     i18n: company_b_date
   job:
     detail: Student Research Assistant
@@ -39,7 +39,7 @@
     detail: Gained experience in Python, Django, MySQL, and Docker by working as a full-stack developer in an agile working environment.
     i18n: company_c_desc
   date:
-    detail: Jul. 2018
+    detail: Jul 2015 - Feb 2018
     i18n: company_c_date
   job:
     detail: Software Engineer

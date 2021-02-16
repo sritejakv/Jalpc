@@ -18,6 +18,12 @@
   tpl: skills.html
   css: team
 
+- id: education
+  i18n: nav.education
+  name: Education
+  tpl: education.html
+  css: timeline
+
 - id: projects
   i18n: nav.projects
   name: Projects

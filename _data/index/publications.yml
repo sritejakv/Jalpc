@@ -2,15 +2,15 @@
   i18n: sritejakv
   authors: Sriteja Kummita, Goran Piskachev, Johannes Spaeth, and Eric Bodden
   conference: The First International Conference on Code Quality, Moscow Russia, March 2021 [To appear].
-  desc: Python is one of the most popular programming languages. An so is also a relevant target for static analysis tools. The primary data structure for performing an inter-procedural analysis is callgraph. There exists multiple algorithms for constructing callgraphs, tailored to specific languages. However, comparatively few implementations target Python. This paper thus presents eval_CG, an extensible framework for comparative analysis of Python callgraphs.
+  desc: Python is one of the most popular programming languages. And so is also a relevant target for static analysis tools. The primary data structure for performing an inter-procedural analysis is callgraph. There exists multiple algorithms for constructing callgraphs, tailored to specific languages. However, comparatively few implementations target Python. This paper thus presents eval_CG, an extensible framework for comparative analysis of current state-of-the-art Python callgraphs.
 
-- name: Integration of the Static Analysis Results Interchange Format in CogniCrypt
+- name: Integration of the Static Analysis Results Interchange Format in CogniCrypt (Technical Report)
   i18n: sritejakv
   authors: Sriteja Kummita, and Goran Piskachev
   url: https://arxiv.org/abs/1907.02558
   desc: This paper explains the SARIF format through examples and presents a proof of concept of the connector that allows the static analysis tool CogniCrypt to generate and export its results in SARIF format.
 
-- name: Efficient quality analysis of underwater acoustic images
+- name: Efficient Quality Analysis of Underwater Acoustic Images
   i18n: sritejakv
   authors: Sriteja Kummita, Sree Sharmila T., and Vineetha M.
   conference: International Journal of Applied Engineering Research, January 2015.

@@ -1,0 +1,11 @@
+- name: Universität Paderborn
+  i18n: sritejakv
+  url: https://www.uni-paderborn.de/
+  # img: /static/assets/img/landing/uni_paderborn.png
+  desc: Master of Science, Computer Science [2018 - 2020]
+
+- name: Sri Sivasubramaniya Nadar (SSN) College of Engineering
+  i18n: sritejakv
+  url: https://www.ssn.edu.in/
+  # img: /static/assets/img/landing/ssn.png
+  desc: Bachelor of Technology, Information Technology [2011 - 2015]
